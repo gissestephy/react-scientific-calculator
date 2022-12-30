@@ -10,7 +10,7 @@ Este proyecto fue realizado con React, consiste en una calculadora científica q
 # Instalación
 
 1. Clonar el repositorio en GitHub
-2. En la barra de direcciones escribir "cmd" para que se abra la consola de windows
-3. Proseguir escribiendo "Code ." para que se abra el VSC
-4. En la terminal de VSC instalar las nodes "npm install"
-5. Proseguir escribiendo "npm start" para inicializarla
+2. En la barra de direcciones escribir `cmd` para que se abra la consola de windows
+3. Proseguir escribiendo `code .` para que se abra el VSC
+4. En la terminal de VSC instalar las nodes `npm install`
+5. Proseguir escribiendo `npm start` para inicializarla
